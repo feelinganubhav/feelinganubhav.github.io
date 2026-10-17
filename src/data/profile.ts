@@ -1,7 +1,7 @@
 // All site content lives here. Edit this file only.
 
 export const LINKEDIN_URL = '' // paste your LinkedIn URL; the button hides while empty
-export const CONTACT_EMAIL = 'anubhav204@gmail.com'
+export const CONTACT_EMAIL = 'anubhavr204@gmail.com'
 export const YOUTUBE_URL = '' // paste your singing channel link; hidden while empty
 
 export const GYM_START = '2026-03-15'
